@@ -1,0 +1,12 @@
+D:\AW 17\Source Code Visual Studio 19\Scan Virus\obj\Debug\Scan Virus.vbprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Scan Virus\obj\Debug\Scan_Virus.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Scan Virus\obj\Debug\Scan_Virus.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Scan Virus\obj\Debug\Scan Virus.vbproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Scan Virus\obj\Debug\Scan Virus.vbproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Scan Virus\bin\Debug\Scan Virus.exe.config
+D:\AW 17\Source Code Visual Studio 19\Scan Virus\bin\Debug\Scan Virus.exe
+D:\AW 17\Source Code Visual Studio 19\Scan Virus\bin\Debug\Scan Virus.pdb
+D:\AW 17\Source Code Visual Studio 19\Scan Virus\bin\Debug\Scan Virus.xml
+D:\AW 17\Source Code Visual Studio 19\Scan Virus\obj\Debug\Scan Virus.exe
+D:\AW 17\Source Code Visual Studio 19\Scan Virus\obj\Debug\Scan Virus.xml
+D:\AW 17\Source Code Visual Studio 19\Scan Virus\obj\Debug\Scan Virus.pdb
